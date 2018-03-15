@@ -1,0 +1,12 @@
+.container {
+  }
+
+  #quote-display {
+      width: 500px;
+      height: 500px;
+  }
+
+  .quoted {
+    text-align: center;
+    vertical-align: middle;
+  }
